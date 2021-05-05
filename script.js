@@ -1,8 +1,14 @@
 
-var data=[{
+var data=[
+  {
   username:"admin",
   password:"123"
+},
+  {
+  username:"user",
+  password:"123"
 }
+ 
 ]
 
 function getInfo()
